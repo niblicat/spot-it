@@ -2,7 +2,7 @@
 
 Design Spot It! cards with your own configuration.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spot-it-circle.streamlit.app)
 
 ## How to run it on your own machine
 
