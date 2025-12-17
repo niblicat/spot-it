@@ -1,6 +1,7 @@
 # Spot It! Card Generator
 
 Design Spot It! cards with your own configuration.
+Forked from [jNathanDo's version](https://github.com/jNathanDo/blank-app-1).
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spot-it-circle.streamlit.app)
 
